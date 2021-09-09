@@ -21,6 +21,17 @@ Capitulo 24
 
 # RESOLUCION DE EJERCICIOS
 
+![Capítulo 23_1](https://user-images.githubusercontent.com/84421020/132709922-89187156-4676-4b2a-b16f-366c25b97acc.jpg)
+![Capítulo 23_2](https://user-images.githubusercontent.com/84421020/132709962-d3592bd6-58c6-45f5-bf76-68d16c54b3c6.jpg)
+![Capítulo 23_3](https://user-images.githubusercontent.com/84421020/132710003-bedc4fc1-f3ee-4c32-976c-089dd5b1438f.jpg)
+![Capítulo 23_4](https://user-images.githubusercontent.com/84421020/132710045-c1f226f4-a06d-47c2-baea-849469a6792a.jpg)
+![Capítulo 23_5](https://user-images.githubusercontent.com/84421020/132710132-84d8cde6-1d48-4a82-91a0-1d4f873a720d.jpg)
+![Capítulo 23_6](https://user-images.githubusercontent.com/84421020/132710173-5ba16785-8bd5-4428-8392-57230db52b21.jpg)
+![Capítulo 23_7](https://user-images.githubusercontent.com/84421020/132710204-90cb7012-168c-4568-9999-52bfd167fd1a.jpg)
+![Capítulo 23_8](https://user-images.githubusercontent.com/84421020/132710241-db34bb23-c4ab-4b29-b534-c27089085a73.jpg)
+![Capítulo 23_9](https://user-images.githubusercontent.com/84421020/132710281-afc14189-cbab-4ad1-80a6-f94f73495e1e.jpg)
+
+
 ![DEBER3P3_01](https://user-images.githubusercontent.com/84421370/132609030-c8de4dfe-c743-47d7-9940-469fe0cafaaa.jpg)
 ![DEBER3P3_02](https://user-images.githubusercontent.com/84421370/132609044-9241c1c2-90d6-4894-b48f-7407ab30631b.jpg)
 ![DEBER3P3_03](https://user-images.githubusercontent.com/84421370/132609054-21768a7b-9a79-4f39-a64e-11f4d2efa072.jpg)
