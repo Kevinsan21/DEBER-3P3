@@ -1,5 +1,11 @@
 # DEBER-3P3
 # INTEGRANTES
+.Kevin Barrera
+
+.Jennifer Beltran
+
+.Vanessa Cayambe
+
 # OBJETIVOS
 # MARCO TEORICO
 Para una mejor visualizacion dar click en la imagen.
@@ -34,3 +40,5 @@ Capitulo 24
 # VIDEO
 # CONCLUSIONES
 # BIBLIOGRAFIA
+
+Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
