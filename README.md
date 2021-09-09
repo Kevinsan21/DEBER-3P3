@@ -30,6 +30,12 @@ Capitulo 24
 ![Capítulo 23_7](https://user-images.githubusercontent.com/84421020/132710204-90cb7012-168c-4568-9999-52bfd167fd1a.jpg)
 ![Capítulo 23_8](https://user-images.githubusercontent.com/84421020/132710241-db34bb23-c4ab-4b29-b534-c27089085a73.jpg)
 ![Capítulo 23_9](https://user-images.githubusercontent.com/84421020/132710281-afc14189-cbab-4ad1-80a6-f94f73495e1e.jpg)
+![image](https://user-images.githubusercontent.com/84421020/132713299-c803159d-8e4b-4284-beb2-ee3b1be42d9d.png)
+![image](https://user-images.githubusercontent.com/84421020/132713327-010ada55-31e0-4490-8160-8ea3e1e6da56.png)
+![image](https://user-images.githubusercontent.com/84421020/132713360-1e72f6d5-ca95-4798-9c32-3610681aeda1.png)
+![image](https://user-images.githubusercontent.com/84421020/132713412-006df7d4-6839-4458-9bca-aad967e4cada.png)
+![image](https://user-images.githubusercontent.com/84421020/132713443-23822cf9-e675-44e9-831e-75ebbc0f0c94.png)
+
 
 
 ![DEBER3P3_01](https://user-images.githubusercontent.com/84421370/132609030-c8de4dfe-c743-47d7-9940-469fe0cafaaa.jpg)
