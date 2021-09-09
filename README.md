@@ -9,9 +9,9 @@ Vanessa Cayambe
 # OBJETIVOS
 Desarrollar por medio de ejercicios lo que son transformadores y sistemas de tres fases para un mejor conocimiento de estos.
 
-Conocer las relaciones de voltaje y corriente de las redes excitadas por una fuente de alimentación trifasica
+Conocer las conexiones basicas de circuitos trifásicos y su voltaje por medio del sistema de tres fases.
 
-Utilizar adecuadamente el modelo ideal, las relaciones de corriente, voltaje y potencia que caracterizan a los tansformadores
+Utilizar correctamente el modelo ideal, las relaciones de corriente, voltaje y potencia que caracterizan a los tansformadores.
 
 # MARCO TEORICO
 Para una mejor visualizacion dar click en la imagen.
