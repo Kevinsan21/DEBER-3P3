@@ -34,6 +34,7 @@ Capitulo 24
 ![Capítulo 23_7](https://user-images.githubusercontent.com/84421020/132710204-90cb7012-168c-4568-9999-52bfd167fd1a.jpg)
 ![Capítulo 23_8](https://user-images.githubusercontent.com/84421020/132710241-db34bb23-c4ab-4b29-b534-c27089085a73.jpg)
 ![Capítulo 23_9](https://user-images.githubusercontent.com/84421020/132710281-afc14189-cbab-4ad1-80a6-f94f73495e1e.jpg)
+
 ![image](https://user-images.githubusercontent.com/84421020/132716369-5b7bbbcb-3cea-410d-98a3-a1f0c71f57af.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716410-0787fc3f-153c-4518-ab72-c4dc522618cf.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716425-b2222026-ffbd-4962-ac1d-e228d93a6f06.png)
