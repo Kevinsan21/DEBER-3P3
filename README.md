@@ -1,12 +1,14 @@
 # DEBER-3P3
 # INTEGRANTES
-.Kevin Barrera
+Kevin Barrera
 
-.Jennifer Beltran
+Jennifer Beltran
 
-.Vanessa Cayambe
+Vanessa Cayambe
 
 # OBJETIVOS
+
+
 # MARCO TEORICO
 Para una mejor visualizacion dar click en la imagen.
 
