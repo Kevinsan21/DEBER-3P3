@@ -2,7 +2,8 @@
 # INTEGRANTES
 # OBJETIVOS
 # MARCO TEORICO
-Para una mejor visualizacion dar click en la imagen 
+Para una mejor visualizacion dar click en la imagen.
+
 Capitulo 23
 ![Concept Map (21)](https://user-images.githubusercontent.com/84421020/132625175-9dc59f6f-c1b5-4921-8bb2-02cadb9bfac0.jpg)
 
