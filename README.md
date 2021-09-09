@@ -30,12 +30,14 @@ Capitulo 24
 ![Capítulo 23_7](https://user-images.githubusercontent.com/84421020/132710204-90cb7012-168c-4568-9999-52bfd167fd1a.jpg)
 ![Capítulo 23_8](https://user-images.githubusercontent.com/84421020/132710241-db34bb23-c4ab-4b29-b534-c27089085a73.jpg)
 ![Capítulo 23_9](https://user-images.githubusercontent.com/84421020/132710281-afc14189-cbab-4ad1-80a6-f94f73495e1e.jpg)
-![image](https://user-images.githubusercontent.com/84421020/132713299-c803159d-8e4b-4284-beb2-ee3b1be42d9d.png)
-![image](https://user-images.githubusercontent.com/84421020/132713785-79a83bec-3b4b-4c9c-b0d2-62b4b9c95228.png)
-![image](https://user-images.githubusercontent.com/84421020/132713327-010ada55-31e0-4490-8160-8ea3e1e6da56.png)
-![image](https://user-images.githubusercontent.com/84421020/132713360-1e72f6d5-ca95-4798-9c32-3610681aeda1.png)
-![image](https://user-images.githubusercontent.com/84421020/132713412-006df7d4-6839-4458-9bca-aad967e4cada.png)
-![image](https://user-images.githubusercontent.com/84421020/132713443-23822cf9-e675-44e9-831e-75ebbc0f0c94.png)
+![image](https://user-images.githubusercontent.com/84421020/132716369-5b7bbbcb-3cea-410d-98a3-a1f0c71f57af.png)
+![image](https://user-images.githubusercontent.com/84421020/132716410-0787fc3f-153c-4518-ab72-c4dc522618cf.png)
+![image](https://user-images.githubusercontent.com/84421020/132716425-b2222026-ffbd-4962-ac1d-e228d93a6f06.png)
+![image](https://user-images.githubusercontent.com/84421020/132716451-c4bee578-3457-4ac9-ab4c-e70fa09fe318.png)
+![image](https://user-images.githubusercontent.com/84421020/132716468-5d2782bc-8ccc-49f5-ae22-8c3129648a20.png)
+![image](https://user-images.githubusercontent.com/84421020/132716485-46fa0ba1-0caa-457a-8ac6-aa525d75af58.png)
+![image](https://user-images.githubusercontent.com/84421020/132716519-427217e8-2083-4075-aef8-b6188c79d759.png)
+
 
 
 
