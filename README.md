@@ -74,7 +74,11 @@ Capitulo 24
 ![DEBER3P3_17](https://user-images.githubusercontent.com/84421370/132609151-65e5c075-cdea-48e5-b747-2a25b8befff5.jpg)
 
 # VIDEO
+https://www.youtube.com/watch?v=51B7ZvSQNjk
 # CONCLUSIONES
+Un transformador es un dispositivo electrico utilizado paara distribuir la potencia y puede llegar a encontrarse en instrumentos de medicion en circuitos electronicos, el transformador es un circuito en el cual el campo magnetico producido por la corriente que varía en el tiempo en un circuito induce voltaje en otro. Los transformadores son circuitos acoplados magneticamente cuando estos operan su inductancia es mutua. Podemos concluir que un transformador da paso al aumento o disminucion de tension en un circuito electrico donde existe corriente alterna.
+
+
 # BIBLIOGRAFIA
 
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
