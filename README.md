@@ -7,7 +7,7 @@ Jennifer Beltran
 Vanessa Cayambe
 
 # OBJETIVOS
-
+Desarrollar por medio de ejercicios lo que son transformadores y sistemas de tres fases para un mejor conocimiento de estos.
 
 # MARCO TEORICO
 Para una mejor visualizacion dar click en la imagen.
