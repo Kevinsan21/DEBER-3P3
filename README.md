@@ -7,6 +7,10 @@ Para una mejor visualizacion dar click en la imagen.
 Capitulo 23
 ![Concept Map (21)](https://user-images.githubusercontent.com/84421020/132625175-9dc59f6f-c1b5-4921-8bb2-02cadb9bfac0.jpg)
 
+Capitulo 24 
+![Concept Map (22)](https://user-images.githubusercontent.com/84421020/132630985-faa6c6d0-ef37-45b3-87bd-9d3a9685e3fb.jpg)
+
+
 # RESOLUCION DE EJERCICIOS
 
 ![DEBER3P3_01](https://user-images.githubusercontent.com/84421370/132609030-c8de4dfe-c743-47d7-9940-469fe0cafaaa.jpg)
