@@ -3,7 +3,7 @@
 # OBJETIVOS
 # MARCO TEORICO
 # RESOLUCION DE EJERCICIOS
-Capitulo 23
+
 ![DEBER3P3_01](https://user-images.githubusercontent.com/84421370/132609030-c8de4dfe-c743-47d7-9940-469fe0cafaaa.jpg)
 ![DEBER3P3_02](https://user-images.githubusercontent.com/84421370/132609044-9241c1c2-90d6-4894-b48f-7407ab30631b.jpg)
 ![DEBER3P3_03](https://user-images.githubusercontent.com/84421370/132609054-21768a7b-9a79-4f39-a64e-11f4d2efa072.jpg)
