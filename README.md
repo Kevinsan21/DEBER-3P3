@@ -36,6 +36,7 @@ Capitulo 24
 ![image](https://user-images.githubusercontent.com/84421020/132716451-c4bee578-3457-4ac9-ab4c-e70fa09fe318.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716468-5d2782bc-8ccc-49f5-ae22-8c3129648a20.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716485-46fa0ba1-0caa-457a-8ac6-aa525d75af58.png)
+![image](https://user-images.githubusercontent.com/84421020/132716791-a077c1c6-361c-4e62-8285-a20dad0348f7.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716519-427217e8-2083-4075-aef8-b6188c79d759.png)
 
 
