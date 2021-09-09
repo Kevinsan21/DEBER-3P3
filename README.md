@@ -43,6 +43,14 @@ Capitulo 24
 ![image](https://user-images.githubusercontent.com/84421020/132716485-46fa0ba1-0caa-457a-8ac6-aa525d75af58.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716791-a077c1c6-361c-4e62-8285-a20dad0348f7.png)
 ![image](https://user-images.githubusercontent.com/84421020/132716519-427217e8-2083-4075-aef8-b6188c79d759.png)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0001.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0002.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0003.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0004.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0005.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0006.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0007.jpg)
+![](https://github.com/Kevinsan21/DEBER-3P3/blob/main/23%20y%2024_page-0008.jpg)
 
 
 
